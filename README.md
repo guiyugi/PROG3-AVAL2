@@ -16,8 +16,8 @@ Certifique-se de ter o Node.js e o npm instalados em seu sistema. Caso não tenh
 1. Clone o repositório do GitHub para o seu ambiente local:
 
 ```bash
-git clone https://github.com/uespi-phb/eleicoes2022.git
-cd eleicoes2022
+git clone https://github.com/uespi-phb/PROG3-AVAL2.git
+cd PROG3-AVAL2
 ```
 
 2. Instale as dependências do projeto utilizando o npm:
@@ -25,15 +25,15 @@ cd eleicoes2022
 npm install
 ```
 
-##Configuração do Banco de Dados
+## Configuração do Banco de Dados
 
-##Certifique-se de que o SQLite3 está instalado e configurado corretamente no seu ambiente.
+## Certifique-se de que o SQLite3 está instalado e configurado corretamente no seu ambiente.
 Execução do Servidor
 ```bash
 npm start
 ```
 Execute o seguinte comando para iniciar o servidor com o nodemon:
 
-##Testando o Servidor
+## Testando o Servidor
 
 Você pode usar ferramentas como Postman para testar as consultas POST no seu servidor.
